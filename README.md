@@ -7,3 +7,5 @@ Ejercicios y sketches hechos en clase.
 Qué intenté hacer:
 Qué aprendí:
 Qué no salió:
+
+![IMAGEN](IMAGENES/MONDRIAN.png)
