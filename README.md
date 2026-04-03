@@ -9,3 +9,8 @@ Qué aprendí:
 Qué no salió:
 
 ![IMAGEN](IMAGENES/MONDRIAN.png)
+![imagen](IMAGENES/prueba.jpg)
+![imagen](IMAGENES/prueba copy.jpg)
+
+
+
